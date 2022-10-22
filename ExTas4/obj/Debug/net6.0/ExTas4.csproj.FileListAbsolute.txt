@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\bin\Debug\net6.0\ExTas4.exe
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\bin\Debug\net6.0\ExTas4.deps.json
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\bin\Debug\net6.0\ExTas4.runtimeconfig.json
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\bin\Debug\net6.0\ExTas4.dll
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\bin\Debug\net6.0\ExTas4.pdb
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.dll
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\refint\ExTas4.dll
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.pdb
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ExTas4.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# Leson\practice task\ExTas4\obj\Debug\net6.0\ref\ExTas4.dll
